@@ -1,0 +1,10 @@
+<resources>
+
+	<!-- Commun -->
+	<string name="app_name">WorldVisit</string>
+
+	<!-- Main -->
+	<string name="main_hint_saisie_memo">Saisir un pays &#8230;</string>
+	<string name="main_libelle_bouton_valider">OK</string>
+
+</resources>
